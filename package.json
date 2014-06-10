@@ -1,6 +1,6 @@
 {
   "name": "through2-asyncmap",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "An async version of through2-map -- async Array.prototype.map for streams",
   "main": "index.js",
   "directories": {
