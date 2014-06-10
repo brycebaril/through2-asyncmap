@@ -2,7 +2,7 @@
   "name": "through2-asyncmap",
   "version": "1.0.1",
   "description": "An async version of through2-map -- async Array.prototype.map for streams",
-  "main": "asyncmap.js",
+  "main": "index.js",
   "directories": {
     "test": "test"
   },
