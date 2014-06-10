@@ -1,7 +1,7 @@
 through2-asyncmap
 ============
 
-[![NPM](https://nodei.co/npm/through2-map.png)](https://nodei.co/npm/through2-asyncmap/)
+[![NPM](https://nodei.co/npm/through2-asyncmap.png)](https://nodei.co/npm/through2-asyncmap/)
 
 An async-only version of [through2-map](http://npm.im/through2-map)
 
